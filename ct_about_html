@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <!--This is comment -->
+      <head>
+        <title>About Curbside Thai </title>
+        <!--utf-8 is the most commmon standard for character encoding -->
+     <meta charset="utf-8" />
+     <!--this tag is used -->
+    <meta name="keywords" content="Thai, restaurant, Charlotte,food." />
+
+     </head>
+ <body>
+  <header>
+    <h1>
+      About Curbside Thai
+    </h1>
+
+  </header>
+  <artical>
+<h2>About Us</h2>
+  </artical>
+  <footer>
+Curbside Thai 411 Belde Drive, Charlotte NC 282011, 780-555-5555
+  </footer>
+      </body>
+
+</html>
